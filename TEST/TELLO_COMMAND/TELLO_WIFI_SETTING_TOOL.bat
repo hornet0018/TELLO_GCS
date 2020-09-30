@@ -1,0 +1,2 @@
+python TELLO_WIFI_SETTING_TOOL.py
+pause
